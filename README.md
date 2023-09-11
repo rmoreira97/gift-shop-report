@@ -1,0 +1,1 @@
+ JavaScript program to parse and analyze a gift shop's sales data using some common JavaScript array operators.
